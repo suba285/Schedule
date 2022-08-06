@@ -1,0 +1,3 @@
+([('LESSON_PLAN',
+   '/Users/johnsubocz/PycharmProjects/lesson_timetable/dist/LESSON_PLAN',
+   'EXECUTABLE')],)
